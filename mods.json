@@ -1,0 +1,282 @@
+[
+  {
+    "name": "BepInExPack Valheim",
+    "category": "Libraries & support",
+    "description": "The loader that runs the pack’s mods.",
+    "version": "5.4.2351",
+    "url": "https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/"
+  },
+  {
+    "name": "YamlDotNet",
+    "category": "Libraries & support",
+    "description": "A shared configuration library required by other mods.",
+    "version": "16.3.1",
+    "url": "https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/"
+  },
+  {
+    "name": "Json.NET",
+    "category": "Libraries & support",
+    "description": "A shared data library required by other mods.",
+    "version": "13.0.4",
+    "url": "https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/"
+  },
+  {
+    "name": "Conditional Config Sync",
+    "category": "Libraries & support",
+    "description": "Supports synchronising mod settings.",
+    "version": "1.0.9",
+    "url": "https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/"
+  },
+  {
+    "name": "Configuration Manager",
+    "category": "Libraries & support",
+    "description": "An in-game interface for changing mod settings.",
+    "version": "1.1.21",
+    "url": "https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/"
+  },
+  {
+    "name": "Jötunn",
+    "category": "Libraries & support",
+    "description": "Shared support for custom items, building pieces and other mod features.",
+    "version": "2.30.2",
+    "url": "https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/"
+  },
+  {
+    "name": "Plant Everything",
+    "category": "Building & home",
+    "description": "More planting options for gardens and the land around your base.",
+    "version": "1.21.2",
+    "url": "https://thunderstore.io/c/valheim/p/Advize/PlantEverything/"
+  },
+  {
+    "name": "Seed Bed",
+    "category": "Building & home",
+    "description": "Adds seed beds for your farming setup.",
+    "version": "1.2.9",
+    "url": "https://thunderstore.io/c/valheim/p/blacks7ar/SeedBed/"
+  },
+  {
+    "name": "Vikings Do Swim",
+    "category": "Travel & utility",
+    "description": "Expands swimming controls, including diving.",
+    "version": "1.4.2",
+    "url": "https://thunderstore.io/c/valheim/p/blacks7ar/VikingsDoSwim/"
+  },
+  {
+    "name": "Sears Catalog",
+    "category": "Building & home",
+    "description": "Makes larger building menus easier to browse.",
+    "version": "1.9.0",
+    "url": "https://thunderstore.io/c/valheim/p/ComfyMods/SearsCatalog/"
+  },
+  {
+    "name": "Pathfinder",
+    "category": "Travel & utility",
+    "description": "Adjusts exploration and map discovery.",
+    "version": "2.2.3",
+    "url": "https://thunderstore.io/c/valheim/p/Crystal/Pathfinder/"
+  },
+  {
+    "name": "Better Wisps",
+    "category": "Travel & utility",
+    "description": "Improves the usefulness of wisps in the mist.",
+    "version": "1.0.44",
+    "url": "https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/"
+  },
+  {
+    "name": "Slope Combat Assistance",
+    "category": "Combat & equipment",
+    "description": "Helps melee attacks connect when fighting on slopes.",
+    "version": "2.0.30",
+    "url": "https://thunderstore.io/c/valheim/p/Digitalroot/Digitalroots_Slope_Combat_Assistance/"
+  },
+  {
+    "name": "Max Dungeon Rooms",
+    "category": "Combat & equipment",
+    "description": "Changes dungeon room limits for dungeon generation.",
+    "version": "2.0.39",
+    "url": "https://thunderstore.io/c/valheim/p/Digitalroot/Max_Dungeon_Rooms/"
+  },
+  {
+    "name": "Blacksmith’s Tools",
+    "category": "Libraries & support",
+    "description": "Support tools used by Jude’s equipment mods.",
+    "version": "3.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/GoldenJude/Blacksmiths_tools/"
+  },
+  {
+    "name": "Jude’s Equipment",
+    "category": "Combat & equipment",
+    "description": "Adds more equipment to discover and craft.",
+    "version": "3.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/GoldenJude/Judes_Equipment/"
+  },
+  {
+    "name": "Valheim Armory",
+    "category": "Combat & equipment",
+    "description": "More weapon choices across your adventure.",
+    "version": "1.34.0",
+    "url": "https://thunderstore.io/c/valheim/p/MidnightMods/ValheimArmory/"
+  },
+  {
+    "name": "Epic Loot",
+    "category": "Combat & equipment",
+    "description": "Adds magical equipment, enchantments and loot to hunt for.",
+    "version": "0.14.13",
+    "url": "https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/"
+  },
+  {
+    "name": "Hip Lantern",
+    "category": "Travel & utility",
+    "description": "A wearable light with a separate heat mode.",
+    "version": "1.1.12",
+    "url": "https://thunderstore.io/c/valheim/p/shudnal/HipLantern/"
+  },
+  {
+    "name": "Traders Extended",
+    "category": "Travel & utility",
+    "description": "Expands trader interactions, including equipment repairs.",
+    "version": "2.0.4",
+    "url": "https://thunderstore.io/c/valheim/p/shudnal/TradersExtended/"
+  },
+  {
+    "name": "Adventure Backpacks",
+    "category": "Travel & utility",
+    "description": "Adds wearable backpacks and associated utility features.",
+    "version": "2.1.13",
+    "url": "https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/"
+  },
+  {
+    "name": "Venture Area Repair",
+    "category": "Building & home",
+    "description": "Makes repairing nearby building pieces less repetitive.",
+    "version": "1.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Area_Repair/"
+  },
+  {
+    "name": "Venture Farm Grid",
+    "category": "Building & home",
+    "description": "Helps arrange crops with consistent spacing.",
+    "version": "1.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Farm_Grid/"
+  },
+  {
+    "name": "Venture Floating Items",
+    "category": "Travel & utility",
+    "description": "Makes dropped items float so they are easier to recover from water.",
+    "version": "1.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Floating_Items/"
+  },
+  {
+    "name": "Venture Logout Tweaks",
+    "category": "Travel & utility",
+    "description": "Adjusts logout behaviour.",
+    "version": "1.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Logout_Tweaks/"
+  },
+  {
+    "name": "Daywheel",
+    "category": "Travel & utility",
+    "description": "Adds an at-a-glance display of the day’s progress.",
+    "version": "1.0.12",
+    "url": "https://thunderstore.io/c/valheim/p/VysesDarkheart/Daywheel/"
+  },
+  {
+    "name": "Reely Good Rod",
+    "category": "Travel & utility",
+    "description": "Quality-of-life adjustments for fishing.",
+    "version": "1.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/VentureValheim/Reely_Good_Rod/"
+  },
+  {
+    "name": "Warm Torches",
+    "category": "Travel & utility",
+    "description": "Adds warmth to carried torches.",
+    "version": "1.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/VentureValheim/Warm_Torches/"
+  },
+  {
+    "name": "Epic Loot Progression Fix",
+    "category": "Progression",
+    "description": "Compatibility fixes for Epic Loot progression.",
+    "version": "0.1.49",
+    "url": "https://thunderstore.io/c/valheim/p/Tenemo/EpicLoot_ProgressionFix/"
+  },
+  {
+    "name": "World Advancement Progression",
+    "category": "Progression",
+    "description": "Tracks individual progress and gates equipment and activities behind boss kills.",
+    "version": "1.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/VentureValheim/World_Advancement_Progression/"
+  },
+  {
+    "name": "Need for Speed",
+    "category": "Travel & utility",
+    "description": "Makes travel along prepared paths more useful.",
+    "version": "1.0.0",
+    "url": "https://thunderstore.io/c/valheim/p/VentureValheim/Need_For_Speed/"
+  },
+  {
+    "name": "Advanced Portals",
+    "category": "Travel & utility",
+    "description": "Adds portal tiers with different transport capabilities.",
+    "version": "1.2.0",
+    "url": "https://thunderstore.io/c/valheim/p/RandyKnapp/AdvancedPortals/"
+  },
+  {
+    "name": "Star Level System",
+    "category": "Combat & equipment",
+    "description": "Adds configurable creature stars, modifiers and raids.",
+    "version": "1.18.1",
+    "url": "https://thunderstore.io/c/valheim/p/MidnightMods/StarLevelSystem/"
+  },
+  {
+    "name": "Zen ModLib",
+    "category": "Libraries & support",
+    "description": "Shared support for the installed Zen mods.",
+    "version": "1.14.14",
+    "url": "https://thunderstore.io/c/valheim/p/ZenDragon/Zen_ModLib/"
+  },
+  {
+    "name": "ZenSign",
+    "category": "Building & home",
+    "description": "More useful signs for organising your base.",
+    "version": "1.9.1",
+    "url": "https://thunderstore.io/c/valheim/p/ZenDragon/ZenSign/"
+  },
+  {
+    "name": "ZenHoverItem",
+    "category": "Travel & utility",
+    "description": "Clearer information about items, containers and fuel when you look at them.",
+    "version": "1.3.0",
+    "url": "https://thunderstore.io/c/valheim/p/ZenDragon/ZenHoverItem/"
+  },
+  {
+    "name": "ZenDistributor",
+    "category": "Building & home",
+    "description": "Cart and distribution conveniences. The pack does not use its cart weight assistance.",
+    "version": "1.3.0",
+    "url": "https://thunderstore.io/c/valheim/p/ZenDragon/ZenDistributor/"
+  },
+  {
+    "name": "ZenBeehive",
+    "category": "Building & home",
+    "description": "Easier manual collection from beehives.",
+    "version": "1.1.0",
+    "url": "https://thunderstore.io/c/valheim/p/ZenDragon/ZenBeehive/"
+  },
+  {
+    "name": "ZenRedecorate",
+    "category": "Building & home",
+    "description": "Move placed objects when rearranging your base.",
+    "version": "1.5.0",
+    "url": "https://thunderstore.io/c/valheim/p/ZenDragon/ZenRedecorate/"
+  },
+  {
+    "name": "ZenConstruction",
+    "category": "Building & home",
+    "description": "Building controls and nearby-container conveniences, with vanilla structural rules retained.",
+    "version": "1.4.1",
+    "url": "https://thunderstore.io/c/valheim/p/ZenDragon/ZenConstruction/"
+  }
+]
