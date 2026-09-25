@@ -278,5 +278,12 @@
     "description": "Building controls and nearby-container conveniences, with vanilla structural rules retained.",
     "version": "1.4.1",
     "url": "https://thunderstore.io/c/valheim/p/ZenDragon/ZenConstruction/"
+  },
+  {
+    "name": "First Person",
+    "category": "Travel & utility",
+    "description": "Optional first-person camera and field-of-view controls. Press F6 to toggle views.",
+    "version": "1.0.13",
+    "url": "https://thunderstore.io/c/valheim/p/Landoria/FirstPerson/"
   }
 ]
